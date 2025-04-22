@@ -1,5 +1,5 @@
-## 🔐 Secure Data Encryption System
-A simple and secure way to store and retrieve encrypted text using Python and Streamlit.
+## 🔐 All Basic To Advanced Python Projects
+using Python and Streamlit.
 
 ---
 
